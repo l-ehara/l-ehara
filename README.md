@@ -7,13 +7,13 @@
 
 - 👨‍💻 Some of my projects are available here [https://github.com/l-ehara](https://github.com/l-ehara)
 
-- 💬 Ask me about **Myself**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **lucasehara@gmail.com or on my Linkedin**
 
 - 📄 Know about myself [https://www.linkedin.com/in/lucasehara/](https://www.linkedin.com/in/lucasehara/)
 
-- ⚡ Fun fact **I hate soda**
+- ⚡ Fun fact **my birthday is in the last day of the year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
