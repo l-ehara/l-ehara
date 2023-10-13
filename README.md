@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Ehara</h1>
-<h3 align="center">A passionate Software Engineering student from Brazil</h3>
+<h3 align="center">A passionate Software Engineering student and Data Engineer Intern from Brazil</h3>
 
 - 🔭 I’m currently working on **Nelogica**
 
