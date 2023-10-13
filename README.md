@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lucas Ehara</h1>
 <h3 align="center">A passionate Software Engineering student and Data Engineer Intern from Brazil</h3>
 
-- 🔭 I’m currently working on **Nelogica**
+- 🔭 I’m currently working on: **Nelogica**
 
-- 🌱 I’m currently learning **Python, SQL, AiFlow DAGs, Data Engineering and Data Pipelines**
+- 🌱 I’m currently learning: **Python, SQL, AiFlow DAGs, Data Engineering and Data Pipelines**
 
-- 👨‍💻 Some of my projects are available here [https://github.com/l-ehara](https://github.com/l-ehara)
+- 👨‍💻 Some of my projects are available here: [https://github.com/l-ehara](https://github.com/l-ehara)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about: **Anything**
 
-- 📫 How to reach me **lucasehara@gmail.com or on my Linkedin**
+- 📫 How to reach me: **lucasehara@gmail.com or on my Linkedin**
 
-- 📄 Know about myself [https://www.linkedin.com/in/lucasehara/](https://www.linkedin.com/in/lucasehara/)
+- 📄 Know about myself at: [https://www.linkedin.com/in/lucasehara/](https://www.linkedin.com/in/lucasehara/)
 
-- ⚡ Fun fact **my birthday is in the last day of the year!**
+- ⚡ Fun fact: **My birthday is in the last day of the year!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
