@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at: **Nelogica**
 
-- 🌱 I’m currently learning: **Python, SQL, AiFlow DAGs, Data Engineering and Data Pipelines**
+- 🌱 I’m currently learning: **Python, SQL, AiFlow DAGs, Data Pipelines**
 
 - 👨‍💻 Some of my projects are available here: [https://github.com/l-ehara](https://github.com/l-ehara)
 
