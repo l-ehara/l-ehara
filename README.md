@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as a Data Engineering Intern;<br>- 📚 I'm currently learning more about data manipulation and analysis;<br>- ⚡ 6th Semester Software Engineering studant at PUCRS.</p>
+<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as a Data Engineer;<br>- 📚 I'm currently learning more about data pipelines optimization;<br>- ⚡ 7th Semester Software Engineering studant at PUCRS.</p>
 
 ###
 
