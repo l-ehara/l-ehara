@@ -7,10 +7,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasehara/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/lucasehara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
   <a href="lucasehara@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -32,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as a Data Engineer;<br>- 📚 I'm currently learning more about data pipelines optimization;<br>- ⚡ 7th Semester Software Engineering studant at PUCRS.</p>
+<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as a Data Engineer;<br>- 📚 Studying serverless Data Engineering technologies;<br>- 🎓 Bachelor's in Software Engineering.</p>
 
 ###
 
